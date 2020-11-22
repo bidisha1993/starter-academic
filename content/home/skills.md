@@ -29,8 +29,8 @@ subtitle = ""
   icon_pack = "fas"
   name = "SQL/NoSQL"
 
-  [[feature]]
-  icon = "fie-chart-line"
+[[feature]]
+  icon = "file-chart-line"
   icon_pack = "fas"
   name = "Tableau"
 
