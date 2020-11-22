@@ -30,8 +30,8 @@ subtitle = ""
   name = "SQL/NoSQL"
 
 [[feature]]
-  icon = "file-chart-line"
-  icon_pack = "fas"
+  icon = "analytics"
+  icon_pack = "fal"
   name = "Tableau"
 
 # Uncomment to use emoji icons.
