@@ -67,4 +67,5 @@ user_groups:
 - Visitors
 ---
 
-to be filled.
+I am a data driven professional with 3 and a half years of professional experience in the field of data analytics and business intelligence, currently pursuing my second master’s degree in Urban Informatics from Northeastern University. I am well versed in developing analytical reports and BI dashboards in Tableau, I am proficient in doing statistical analysis and data modelling. I have experience working with ArcGIS and QGIS to do spatial data analysis and data visualization. My second masters has helped me hone skills in Computational Statistics and data modelling techniques like Multivariate Regression, Hierarchical linear modelling and Geographical Weighted Regression.
+
