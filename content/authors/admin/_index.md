@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bidisha Das
+title: Bidisha Das.
 
 # Is this the primary user of the site?
 superuser: true
