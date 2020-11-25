@@ -43,10 +43,10 @@ date_format = "Jan 2006"
   date_start = "2020-01-01"
   date_end = "2020-08-31"
   description = """
-• Analyzed over 40,000 rows of 911 Crime Data and computed relation between crime hotspots and transit with regression models
-• Analyzed 8000 rows of Boston Housing Rental Relief Survey Data and performed hypothesis tests, correlation and regression and
+* Analyzed over 40,000 rows of 911 Crime Data and computed relation between crime hotspots and transit with regression models
+* Analyzed 8000 rows of Boston Housing Rental Relief Survey Data and performed hypothesis tests, correlation and regression and
 developed patterns of unemployment and rental relief across Boston using computational statistics
-• Developed Tableau Dashboards on different metrics related to Foster Care for Children
+* Developed Tableau Dashboards on different metrics related to Foster Care for Children
 """
 
 [[experience]]
@@ -57,12 +57,12 @@ developed patterns of unemployment and rental relief across Boston using computa
   date_start = "2016-08-01"
   date_end = "2018-12-31"
   description = """
-• Led an initiative to automate reporting by developing Tableau dashboards using WDC to track workshops and survey results
-• Created SOPs for 15 projects, 30 work instructions and 10 templates to facilitate process improvements
-• Calculated quarterly forecasts of workshops required for 50 schools within Delhi region
-• Lead the weekly operations meetings to communicate schedule, resource allocation and guidelines for next week workshops
-• Brainstormed with customers to identify KPIs and collaborated with business managers to define, track and report metrics
-• Created quarterly report on the effects of training on student’s performance using pivot tables, vlookup & regression analysis
+* Led an initiative to automate reporting by developing Tableau dashboards using WDC to track workshops and survey results
+* Created SOPs for 15 projects, 30 work instructions and 10 templates to facilitate process improvements
+* Calculated quarterly forecasts of workshops required for 50 schools within Delhi region
+* Lead the weekly operations meetings to communicate schedule, resource allocation and guidelines for next week workshops
+* Brainstormed with customers to identify KPIs and collaborated with business managers to define, track and report metrics
+* Created quarterly report on the effects of training on student’s performance using pivot tables, vlookup & regression analysis
 """
 
 +++
