@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = 
   • Collaborating with 8 Machine Learning modeling teams, analyzing and delivering big high-quality datasets to customers
-• Collaborating with Alexa customers as a SPOC, following workflows, training team of 8 members and tracking results
+  • Collaborating with Alexa customers as a SPOC, following workflows, training team of 8 members and tracking results
 • Performing annotations of 1000 lines per week and carrying out multiple other workflows to improve Alexa’s NLU and ASR
 • Analyzing data in AQS scale, rating data in Mturk and labelling data in AcEditor to match service level commitments
 • Providing feedback on SOPs and guidelines and contributing to SPOC onboarding process improvement
