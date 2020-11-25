@@ -33,6 +33,16 @@ subtitle = ""
      name = "Other"
      tag = "Demo"
 
+[[item]]
+  organization = "edx"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
+
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
