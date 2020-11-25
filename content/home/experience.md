@@ -24,17 +24,7 @@ date_format = "Jan 2006"
   location = "Medford, MA, USA"
   date_start = "2020-06-01"
   date_end = ""
-  description = 
-  • Collaborating with 8 Machine Learning modeling teams, analyzing and delivering big high-quality datasets to customers
-  • Collaborating with Alexa customers as a SPOC, following workflows, training team of 8 members and tracking results
-• Performing annotations of 1000 lines per week and carrying out multiple other workflows to improve Alexa’s NLU and ASR
-• Analyzing data in AQS scale, rating data in Mturk and labelling data in AcEditor to match service level commitments
-• Providing feedback on SOPs and guidelines and contributing to SPOC onboarding process improvement
-• Managing 4-5 deliverables throughout project lifecycles weekly and clearly communicating with team members to meet deadlines
-• Actively engaging with other team members and project managers and quickly getting involved in new projects
-
-  """
-
+  description = """
   Responsibilities include:
   
   * Analysing
@@ -49,7 +39,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics. his is test."""
-  
+  description = """Taught electronic engineering and researched semiconductor physics. This is test."""
 
 +++
