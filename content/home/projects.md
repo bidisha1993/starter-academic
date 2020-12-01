@@ -26,13 +26,20 @@ subtitle = ""
      tag = "*"
   
   [[content.filter_button]]
-     name = "Deep Learning"
-     tag = "Deep Learning"
+     name = "Arc GIS"
+     tag = "Arc GIS"
   
   [[content.filter_button]]
-     name = "Other"
-     tag = "Demo"
+     name = "Machine Learning"
+     tag = "Machine Learning"
 
+  [[content.filter_button]]
+     name = "Computational Statistics"
+     tag = "Computational Statistics"
+
+  [[content.filter_button]]
+     name = "Tableau"
+     tag = "Tableau"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Preferred Senior Living"
 summary: ""
 authors: []
-tags: ["Deep Learning" ]
+tags: ["Arc GIS" ]
 categories: []
 date: 2020-11-30T22:13:31-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/bidisha1993/R/blob/master/Preferred%20Senior%20Living_Final%20Paper_Bidisha%20Das.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+* 
