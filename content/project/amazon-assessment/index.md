@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Amazon Assessment"
+title: "Tableau dashboards for tracking warehouse construction project"
 summary: ""
 authors: []
 tags: ["Tableau"]
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+* The purpose of this project was to track the progress and performance of projects for installation of robots and shelves in warehouse

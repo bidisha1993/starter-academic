@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Digital Shadow"
+title: "My Digital Shadow: A Data Analysis of my Facebook activity"
 summary: ""
 authors: []
 tags: ["Computational Statistics"]
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+* Gathered data from Facebook API, cleaned and performed quantitative analysis using statistical packages in R
+* Identified trends and created series of charts using ggplot2 and presented them in the form of poster using Adobe Illustrator

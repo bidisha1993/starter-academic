@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Preferred Senior Living"
+title: "Preferred Senior Living Areas in Boston- A study on OpenStreetMap dataset"
 summary: ""
 authors: []
 tags: ["Arc GIS" ]
@@ -39,4 +39,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-* 
+* Developed a model to identify the preferred senior living areas in Boston 
+* Analyzed OSM dataset, merged with American Community survey dataset and created logical latent construct 
+* Conducted site visits and statistical analysis like hypothesis testing (T-test and ANOVA), correlation and regression
+* For identifying preferred areas for seniors, a method of weighted sum was conducted based on all observations

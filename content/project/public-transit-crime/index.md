@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Public Transit Crime"
+title: "Identification of crime hotspots around transit stops in Boston - A study using
+ArcMap on GIS dataset"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +40,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+* Mapped GIS data on ArcMap using selection by attribute and selection by location queries in SQL
+* Performed Hotspot analysis to understand clusters of categories of crime
+* OLS regression analysis to understand the effects of independent variables on dependent variables
+* Geographical Weighted Regression analysis to understand the effect over on local geographical levels
