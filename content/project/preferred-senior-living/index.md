@@ -9,7 +9,7 @@ categories: []
 date: 2020-11-30T22:13:31-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/bidisha1993/R/blob/master/Preferred%20Senior%20Living_Final%20Paper_Bidisha%20Das.pdf"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/bidisha1993/R/blob/master/Preferred%20Senior%20Living_Final%20Paper_Bidisha%20Das.pdf"
 url_slides: ""
 url_video: ""
 
