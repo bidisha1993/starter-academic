@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/bidisha1993/Tableau/blob/master/Reporting%20on%20Warehouse%20Projects_Bidisha%20Das.pdf"
 url_slides: ""
 url_video: ""
 

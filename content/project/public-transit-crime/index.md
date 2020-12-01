@@ -29,7 +29,7 @@ image:
 #   icon: twitter
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://github.com/bidisha1993/GIS/blob/master/Crime%20and%20Transit_Final%20Project_Bidisha%20Das.pdf"
 url_slides: ""
 url_video: ""
 
