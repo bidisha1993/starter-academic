@@ -19,7 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Preferred Senior Living Areas in Boston - An Analysis on OpenStreetMap Dataset"
-  url="https://github.com/bidisha1993/R/blob/master/Preferred%20Senior%20Living_Final%20Paper_Bidisha%20Das.pdf"
   company = ""
   company_url = ""
   location = ""
