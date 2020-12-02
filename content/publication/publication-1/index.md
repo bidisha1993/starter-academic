@@ -4,7 +4,7 @@
 title: "Promoting secondary education among girls from educationally backward blocks- The case of Kasturba Gandhi Balika Vidyalayas"
 authors: ["Bidisha Das","Sarita Anand"]
 date: 2020-12-01T19:11:39-05:00
-doi: "June 2917"
+doi: "June 2017"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-12-01T19:11:39-05:00
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:"https://github.com/bidisha1993/Research-Publications/blob/master/Research%20paper_Bidisha%20Das.pdf"
+url_pdf: "https://github.com/bidisha1993/Research-Publications/blob/master/Research%20paper_Bidisha%20Das.pdf"
 url_code:
 url_dataset:
 url_poster:
