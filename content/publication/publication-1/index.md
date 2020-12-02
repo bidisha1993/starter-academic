@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://github.com/bidisha1993/Research-Publications/blob/master/Research%20paper_Bidisha%20Das.pdf"
+url_pdf: "http://scientificresearchjournal.com/wp-content/uploads/2017/05/Home-Science-Vol-4_A-414-419-Full-Paper.pdf"
 url_code:
 url_dataset:
 url_poster:
