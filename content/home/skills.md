@@ -30,9 +30,20 @@ subtitle = ""
   name = "SQL/NoSQL"
 
 [[feature]]
-  icon = "analytics"
-  icon_pack = "fal"
+  icon = "fa-chart-bar"
+  icon_pack = "far"
   name = "Tableau"
+
+[[feature]]
+  icon = "fa-globe-americas"
+  icon_pack = "fas"
+  name = "ArcGIS"
+
+[[feature]]
+  icon = "fa-project-diagram"
+  icon_pack = "fas"
+  name = "MS Visio"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
