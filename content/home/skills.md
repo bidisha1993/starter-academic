@@ -30,17 +30,17 @@ subtitle = ""
   name = "SQL/NoSQL"
 
 [[feature]]
-  icon = "fa-chart-bar"
-  icon_pack = "far"
+  icon = "chart-line"
+  icon_pack = "fas"
   name = "Tableau"
 
 [[feature]]
-  icon = "fa-globe-americas"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "ArcGIS"
 
 [[feature]]
-  icon = "fa-project-diagram"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "MS Visio"
 
