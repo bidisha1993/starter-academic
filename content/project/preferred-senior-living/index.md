@@ -4,7 +4,7 @@
 title: "Preferred Senior Living Areas in Boston- A study on OpenStreetMap dataset"
 summary: ""
 authors: []
-tags: ["Arc GIS" ]
+tags: ["Arc GIS", "Machine Learning" ]
 categories: []
 date: 2020-11-30T22:13:31-05:00
 

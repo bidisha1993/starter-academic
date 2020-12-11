@@ -1,11 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Identification of crime hotspots around transit stops in Boston - A study using
-ArcMap on GIS dataset"
+title: "Identification of crime hotspots around transit stops in Boston"
 summary: ""
 authors: []
-tags: []
+tags: ["Arc GIS"]
 categories: []
 date: 2020-11-30T22:24:27-05:00
 
